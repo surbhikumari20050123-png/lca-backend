@@ -1,0 +1,81 @@
+Material Type,Route,Energy Use (kWh),Energy Source,Recycled Content (%),Transport Mode,Distance (km),Quantity (kg),End-of-Life Option,CO2 Emissions (kg),SOx Emissions (kg),NOx Emissions (kg),Water Use (L),Energy Intensity (kWh/kg)
+Steel,Raw Material,22,Hydro,21,Ship,76,43,Incinerate,15.4,0.08,0.12,1200.0,0.51
+Aluminium,Recycled,18,Solar,75,Road,120,58,Recycle,8.1,0.03,0.05,800.0,0.31
+Copper,Raw Material,35,Coal,15,Rail,340,62,Landfill,28.0,0.25,0.35,1800.0,0.56
+Nickel,Recycled,25,Wind,60,Ship,210,39,Reuse,12.5,0.06,0.09,1000.0,0.64
+Zinc,Raw Material,28,Gas,10,Air,500,47,Recycle,22.4,0.18,0.28,1500.0,0.6
+Lead,Recycled,16,Hydro,80,Road,95,55,Incinerate,7.2,0.04,0.06,700.0,0.29
+Titanium,Raw Material,40,Solar,12,Rail,620,44,Recycle,18.0,0.09,0.14,2000.0,0.91
+Magnesium,Recycled,20,Wind,70,Ship,140,36,Landfill,9.0,0.04,0.06,900.0,0.56
+Chromium,Raw Material,30,Coal,5,Road,280,52,Reuse,24.0,0.22,0.32,1600.0,0.58
+Manganese,Recycled,23,Hydro,65,Ship,190,41,Recycle,10.35,0.05,0.08,1100.0,0.56
+Steel,Recycled,20,Solar,80,Road,100,50,Recycle,9.0,0.03,0.05,750.0,0.4
+Aluminium,Raw Material,32,Coal,8,Rail,400,60,Landfill,25.6,0.23,0.33,1700.0,0.53
+Copper,Recycled,22,Wind,70,Ship,180,45,Reuse,9.9,0.04,0.06,950.0,0.49
+Nickel,Raw Material,38,Gas,12,Air,550,48,Recycle,30.4,0.24,0.38,1900.0,0.79
+Zinc,Recycled,19,Hydro,85,Road,110,52,Incinerate,8.55,0.04,0.06,800.0,0.37
+Lead,Raw Material,30,Solar,6,Rail,450,55,Landfill,13.5,0.07,0.1,1400.0,0.55
+Titanium,Recycled,25,Wind,55,Ship,220,40,Recycle,11.25,0.05,0.08,1200.0,0.63
+Magnesium,Raw Material,35,Coal,9,Road,320,58,Reuse,28.0,0.25,0.35,1800.0,0.6
+Chromium,Recycled,21,Hydro,75,Ship,160,46,Recycle,9.45,0.04,0.06,1000.0,0.46
+Manganese,Raw Material,33,Gas,11,Air,480,49,Incinerate,26.4,0.21,0.33,1700.0,0.67
+Steel,Raw Material,22,Hydro,21,Ship,76,43,Incinerate,15.4,0.08,0.12,1200.0,0.51
+Aluminium,Recycled,18,Solar,75,Road,120,58,Recycle,8.1,0.03,0.05,800.0,0.31
+Copper,Raw Material,35,Coal,15,Rail,340,62,Landfill,28.0,0.25,0.35,1800.0,0.56
+Nickel,Recycled,25,Wind,60,Ship,210,39,Reuse,12.5,0.06,0.09,1000.0,0.64
+Zinc,Raw Material,28,Gas,10,Air,500,47,Recycle,22.4,0.18,0.28,1500.0,0.6
+Lead,Recycled,16,Hydro,80,Road,95,55,Incinerate,7.2,0.04,0.06,700.0,0.29
+Titanium,Raw Material,40,Solar,12,Rail,620,44,Recycle,18.0,0.09,0.14,2000.0,0.91
+Magnesium,Recycled,20,Wind,70,Ship,140,36,Landfill,9.0,0.04,0.06,900.0,0.56
+Chromium,Raw Material,30,Coal,5,Road,280,52,Reuse,24.0,0.22,0.32,1600.0,0.58
+Manganese,Recycled,23,Hydro,65,Ship,190,41,Recycle,10.35,0.05,0.08,1100.0,0.56
+Steel,Recycled,20,Solar,80,Road,100,50,Recycle,9.0,0.03,0.05,750.0,0.4
+Aluminium,Raw Material,32,Coal,8,Rail,400,60,Landfill,25.6,0.23,0.33,1700.0,0.53
+Copper,Recycled,22,Wind,70,Ship,180,45,Reuse,9.9,0.04,0.06,950.0,0.49
+Nickel,Raw Material,38,Gas,12,Air,550,48,Recycle,30.4,0.24,0.38,1900.0,0.79
+Zinc,Recycled,19,Hydro,85,Road,110,52,Incinerate,8.55,0.04,0.06,800.0,0.37
+Lead,Raw Material,30,Solar,6,Rail,450,55,Landfill,13.5,0.07,0.1,1400.0,0.55
+Titanium,Recycled,25,Wind,55,Ship,220,40,Recycle,11.25,0.05,0.08,1200.0,0.63
+Magnesium,Raw Material,35,Coal,9,Road,320,58,Reuse,28.0,0.25,0.35,1800.0,0.6
+Chromium,Recycled,21,Hydro,75,Ship,160,46,Recycle,9.45,0.04,0.06,1000.0,0.46
+Manganese,Raw Material,33,Gas,11,Air,480,49,Incinerate,26.4,0.21,0.33,1700.0,0.67
+Steel,Raw Material,22,Hydro,21,Ship,76,43,Incinerate,,,,,
+Aluminium,Recycled,18,Solar,75,Road,120,58,Recycle,,,,,
+Copper,Raw Material,35,Coal,15,Rail,340,62,Landfill,,,,,
+Nickel,Recycled,25,Wind,60,Ship,210,39,Reuse,,,,,
+Zinc,Raw Material,28,Gas,10,Air,500,47,Recycle,,,,,
+Lead,Recycled,16,Hydro,80,Road,95,55,Incinerate,,,,,
+Titanium,Raw Material,40,Solar,12,Rail,620,44,Recycle,,,,,
+Magnesium,Recycled,20,Wind,70,Ship,140,36,Landfill,,,,,
+Chromium,Raw Material,30,Coal,5,Road,280,52,Reuse,,,,,
+Manganese,Recycled,23,Hydro,65,Ship,190,41,Recycle,,,,,
+Steel,Raw Material,22,Hydro,21,Ship,76,43,Incinerate,,,,,
+Aluminium,Recycled,18,Solar,75,Road,120,58,Recycle,,,,,
+Copper,Raw Material,35,Coal,15,Rail,340,62,Landfill,,,,,
+Nickel,Recycled,25,Wind,60,Ship,210,39,Reuse,,,,,
+Zinc,Raw Material,28,Gas,10,Air,500,47,Recycle,,,,,
+Lead,Recycled,16,Hydro,80,Road,95,55,Incinerate,,,,,
+Titanium,Raw Material,40,Solar,12,Rail,620,44,Recycle,,,,,
+Magnesium,Recycled,20,Wind,70,Ship,140,36,Landfill,,,,,
+Chromium,Raw Material,30,Coal,5,Road,280,52,Reuse,,,,,
+Manganese,Recycled,23,Hydro,65,Ship,190,41,Recycle,,,,,
+Steel,Raw Material,22,Hydro,21,Ship,76,43,Incinerate,,,,,
+Aluminium,Recycled,18,Solar,75,Road,120,58,Recycle,,,,,
+Copper,Raw Material,35,Coal,15,Rail,340,62,Landfill,,,,,
+Nickel,Recycled,25,Wind,60,Ship,210,39,Reuse,,,,,
+Zinc,Raw Material,28,Gas,10,Air,500,47,Recycle,,,,,
+Lead,Recycled,16,Hydro,80,Road,95,55,Incinerate,,,,,
+Titanium,Raw Material,40,Solar,12,Rail,620,44,Recycle,,,,,
+Magnesium,Recycled,20,Wind,70,Ship,140,36,Landfill,,,,,
+Chromium,Raw Material,30,Coal,5,Road,280,52,Reuse,,,,,
+Manganese,Recycled,23,Hydro,65,Ship,190,41,Recycle,,,,,
+Steel,Raw Material,22,Hydro,21,Ship,76,43,Incinerate,,,,,
+Aluminium,Recycled,18,Solar,75,Road,120,58,Recycle,,,,,
+Copper,Raw Material,35,Coal,15,Rail,340,62,Landfill,,,,,
+Nickel,Recycled,25,Wind,60,Ship,210,39,Reuse,,,,,
+Zinc,Raw Material,28,Gas,10,Air,500,47,Recycle,,,,,
+Lead,Recycled,16,Hydro,80,Road,95,55,Incinerate,,,,,
+Titanium,Raw Material,40,Solar,12,Rail,620,44,Recycle,,,,,
+Magnesium,Recycled,20,Wind,70,Ship,140,36,Landfill,,,,,
+Chromium,Raw Material,30,Coal,5,Road,280,52,Reuse,,,,,
+Manganese,Recycled,23,Hydro,65,Ship,190,41,Recycle,,,,,
